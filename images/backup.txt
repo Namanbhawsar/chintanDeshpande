@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Hello, world!</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light py-3">
+      <a class="navbar-brand font-italic font-weight-bold" href="#">-CHINTAN DESHPANDE-</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="index.html">Home </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">What i know</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="portfolio.html">Portfolio</a>
+          </li>
+          <li class="nav-item dropdown">
+            
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="#">Action</a>
+              <a class="dropdown-item" href="#">Another action</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Something else here</a>
+            </div>
+          </li>
+        </ul>
+        
+      </div>
+    </nav>
+    <!---------navigation----->
+    <section class="intro container-fluid p-3">
+      <h4 class="intro-title  display-4">Hello,I'am <strong>Chintan Deshpande</strong> </h4>
+      <p class="intro-subtitle intro-subtitle-clr">I'm a web-designer <br> & Photographer</p>
+      <img class="intro-img" src="images/2.jpg" alt="">
+      
+      
+      
+    </section>
+    <div class="text-center my-5 ">
+      <button class="btn download-cv border-dark">Download-CV</button>
+      <button class="btn hire ">Hire Me</button>
+    </div>
+    <!----------landing-------->
+    <section class="skills container-fluid my-5">
+      <h2 class=" head-color skills-section text-center modify display-4 ">I Have a Knowledge In </h2>
+      <div class="row my-5">
+        <div class="col-lg-4 col-md-4 col-12 py-3">
+          <h4 class="text-center modify">HTML5</h4>
+          <p class="text-justify font-italic">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore voluptatum eos culpa quisquam iure quidem impedit itaque a quas rerum.</p>
+        </div>
+        <div class="col-lg-4 col-md-4 col-12 py-3">
+          <h4 class="text-center modify">CSS3</h4>
+          <p class="text-justify font-italic">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore voluptatum eos culpa quisquam iure quidem impedit itaque a quas rerum.</p>
+          
+        </div>
+        <div class="col-lg-4 col-md-4 col-12 py-3">
+          <h4 class="text-center modify">Bootstrap</h4>
+          <p class="text-justify font-italic">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore voluptatum eos culpa quisquam iure quidem impedit itaque a quas rerum.</p>
+          
+        </div>
+        <div class="col-lg-4 col-md-4 col-12 py-3">
+          <h4 class="text-center modify">XHTML</h4>
+          <p class="text-justify font-italic">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore voluptatum eos culpa quisquam iure quidem impedit itaque a quas rerum.</p>
+          
+        </div>
+        <div class="col-lg-4 col-md-4 col-12 py-3">
+          <h4 class="text-center modify">Sass</h4>
+          <p class="text-justify font-italic">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore voluptatum eos culpa quisquam iure quidem impedit itaque a quas rerum.</p>
+          
+        </div>
+        <div class="col-lg-4 col-md-4 col-12 py-3">
+          <h4 class="text-center modify">jQuery</h4>
+          <p class="text-justify font-italic">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore voluptatum eos culpa quisquam iure quidem impedit itaque a quas rerum.</p>
+        </div>
+      </div>
+      <div class="text-center">
+        <button class="btn hire my-3 btn-clr ">Hire Me</button>
+      </div>
+      
+    </section>
+    <!--------------skills------------->
+    <section class="about-me container-fluid ">
+      <h2 class=" about-section display-4 head-color">Who I am</h2>
+      <p class="about-subtitle font-weight-bold">I'm a web-designer <br> & Photographer</p>
+      <div class="about-body font-italic">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas eaque qui expedita dolorum praesentium exercitationem sint numquam maxime sequi eos, id, cumque natus blanditiis sunt.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos recusandae nisi voluptatum saepe molestias alias, perspiciatis perferendis autem hic aliquid, vel ipsam similique labore commodi minus obcaecati eius. Dicta commodi magni doloribus, minima iure ducimus a in facilis aspernatur molestiae nam quas hic, consequuntur quasi. Pariatur ut, mollitia eveniet earum. Ex perferendis optio, cum animi.</p>
+      </div>
+      <img class="about-img" src="images/4.jpg" alt="">
+    </section>
+    <!--------about----------->
+    <section class="my-work mt-5 container-fluid p-3">
+      <h2 class="work-title text-center head-color modify display-4 mt-5">
+      work i've done
+      </h2>
+      <p class="text-center font-weight-bold work-subtitle mb-5 ">portfolio</p>
+      <div class="portfolio container">
+        
+        
+        <a href="images/img-1.png" class="portfolio-item">
+        <img src="images/img-1.png" class="portfolio-img" alt=""></a>
+        <a href="images/img-4.png" class="portfolio-item">
+        <img src="images/img-4.png" class="portfolio-img" alt=""></a>
+        <a href="images/img-5.png" class="portfolio-item">
+        <img src="images/img-5.png" class="portfolio-img" alt=""></a>
+        <a href="images/img-6.png" class="portfolio-item">
+        <img src="images/img-6.png" class="portfolio-img" alt=""></a>
+        <a href="images/img-2.png" class="portfolio-item">
+        <img src="images/img-2.png" class="portfolio-img" alt=""></a>
+        <a href="images/img-3.png" class="portfolio-item">
+        <img src="images/img-3.png" class="portfolio-img" alt=""></a>
+        
+      </div>
+      
+      
+    </section>
+    <!------------work------------>
+    <section class="footer container-fluid text-center">
+      <p class="display-4 modify">Want to contact me</p>
+      <ul class="social-list pb-5 mb-3">
+        <li class="social-items"><a href="#"><i class="icon-clr fa fa-facebook" ></i></a>
+        </li>
+        <li class="social-items"><a href="#"><i class="icon-clr fa fa-instagram" ></i></a>
+        </li>
+       <li class="social-items"><a href="#"><i class="icon-clr fa fa-envelope-open"></i></a>
+        </li>
+      </ul>
+    </section>
+    <!--------footer--------------->
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
+</html>
